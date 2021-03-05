@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, <a href="https://facebook.com/minnyi158">Min Nyi</a> 👋
 
-<p>Hello everyone! I'm "Min Nyi".</p>
+
 
 <!--
 **minnyi158/minnyi158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
